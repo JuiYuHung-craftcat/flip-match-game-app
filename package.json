@@ -1,0 +1,16 @@
+{
+  "name": "flip-match-game-app",
+  "version": "1.0.0",
+  "description": "A flip-match game app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JuiYuHung",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
